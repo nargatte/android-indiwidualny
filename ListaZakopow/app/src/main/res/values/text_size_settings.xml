@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_size">Wielkość czcionki</string>
+    <string-array name="text_size_list_titles">
+        <item>Mała</item>
+        <item>Duża</item>
+        <item>Wielka</item>
+        <item>Ogromna</item>
+
+    </string-array>
+    <string-array name="text_size_list_values">
+        <item>16</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+    </string-array>
+</resources>

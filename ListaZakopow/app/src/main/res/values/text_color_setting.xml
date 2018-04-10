@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_color">Kolor czcionki</string>
+    <string-array name="text_color_list_titles">
+        <item>Czarny</item>
+        <item>Czerwony</item>
+        <item>Zielony</item>
+        <item>Niebieski</item>
+
+    </string-array>
+    <string-array name="text_color_list_values">
+        <item>#000000</item>
+        <item>#FF0000</item>
+        <item>#00FF00</item>
+        <item>#0000FF</item>
+    </string-array></resources>
